@@ -248,5 +248,8 @@ locale:
     - December
 rendercv_settings:
   date: '2025-08-31'
-  render_command:
   bold_keywords: []
+  render_command:
+    dont_generate_html: true 
+    dont_generate_markdown: true 
+    dont_generate_png: true 

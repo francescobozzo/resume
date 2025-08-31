@@ -1,3 +1,5 @@
 .direnv
 engineeringclassic
 markdown
+rendercv_output
+__pycache__
